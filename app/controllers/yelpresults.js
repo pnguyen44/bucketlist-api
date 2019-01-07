@@ -28,7 +28,6 @@ const index = (req, res, next) => {
 
     const obj = JSON.parse(body)
     const yelpresults = obj.businesses
-    // console.log('test' , yelpresults[0])
     res.json({
       yelpresults: yelpresults
     })
