@@ -23,6 +23,7 @@ const index = (req, res, next) => {
 
   request(options, function (error, response, body) {
     if (error) {
+      console.log('error on yelp search')
       response.sendStatus(400)
     }
 
