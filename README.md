@@ -4,6 +4,7 @@
 This was initially a group project. Since then, I have updated the Yelp search feature due to changes in Yelp Fusion API.  Below is the initial deployment information.
 
 Link to Frontend Repo: https://github.com/Squadrilateral/bucketlist-front-end
+
 Link to Frontend Deployed Site: https://squadrilateral.github.io/bucketlist-front-end/
 
 
